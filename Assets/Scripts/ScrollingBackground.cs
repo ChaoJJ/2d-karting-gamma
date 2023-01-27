@@ -7,6 +7,7 @@ public class ScrollingBackground : MonoBehaviour
     Renderer rend;
     public float scrollSpeed = 10.5f;
     public bool xAxis;
+
     // Start is called before the first frame update
     void Start()
     {
